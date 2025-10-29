@@ -1,4 +1,4 @@
-package com.tnsif.daythree;
+package com.tnsif.Assignmentthree;
 public class Transaction {
 	private final double transactionFee = 10.0;
 

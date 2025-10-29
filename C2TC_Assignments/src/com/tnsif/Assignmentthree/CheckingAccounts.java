@@ -1,4 +1,4 @@
-package com.tnsif.daythree;
+package com.tnsif.Assignmentthree;
 public class CheckingAccount extends Account {
     private double overdraftLimit = 1000.0;
 

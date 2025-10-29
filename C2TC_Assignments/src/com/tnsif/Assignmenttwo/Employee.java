@@ -1,4 +1,4 @@
-package com.tnsif.dattwo;
+package com.tnsif.Assignmenttwo;
 public class Employee {
 	private String name;
     private String employeeId;

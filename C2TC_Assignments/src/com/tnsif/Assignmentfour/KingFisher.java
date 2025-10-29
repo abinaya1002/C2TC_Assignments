@@ -1,13 +1,13 @@
-package com.tnsif.dayfour;
-public class AirIndia implements Airfare {
+package com.tnsif.Assignmentfour;
+public class KingFisher implements Airfare {
     private Integer hours;
     private Double costPerHour;
 
     // Default Constructor
-    public AirIndia() {}
+    public KingFisher() {}
 
     // Parameterized Constructor
-    public AirIndia(Integer hours, Double costPerHour) {
+    public KingFisher(Integer hours, Double costPerHour) {
         this.hours = hours;
         this.costPerHour = costPerHour;
     }
@@ -32,12 +32,11 @@ public class AirIndia implements Airfare {
     // Method Implementation
     @Override
     public Double calculateAmount() {
-        return hours * costPerHour;
+        return hours * costPerHour * 4;
     }
 
     @Override
     public void display() {
         System.out.printf("%.2f\n", calculateAmount());
     }
-
 }

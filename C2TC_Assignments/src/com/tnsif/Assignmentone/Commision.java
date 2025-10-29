@@ -1,4 +1,4 @@
-package com.tnsif.dayone;
+package com.tnsif.Assignmentone;
 import java.util.Scanner;
 public class Commision {
 	 private String name;

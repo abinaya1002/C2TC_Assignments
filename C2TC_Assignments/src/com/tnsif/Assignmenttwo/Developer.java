@@ -1,4 +1,4 @@
-package com.tnsif.dattwo;
+package com.tnsif.Assignmenttwo;
 public class Developer extends Employee {
     private String project;
 

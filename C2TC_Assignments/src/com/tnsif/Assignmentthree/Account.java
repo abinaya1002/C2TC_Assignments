@@ -1,4 +1,4 @@
-package com.tnsif.daythree;
+package com.tnsif.Assignmentthree;
 public class Account extends Bank {
     protected String accountHolderName;
     protected double balance;

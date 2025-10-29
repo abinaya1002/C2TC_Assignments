@@ -1,4 +1,4 @@
-package com.tnsif.daythree;
+package com.tnsif.Assignmentthree;
 public class Main {
     public static void main(String[] args) {
         // Create accounts

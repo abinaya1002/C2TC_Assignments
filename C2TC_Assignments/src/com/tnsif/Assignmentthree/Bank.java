@@ -1,4 +1,4 @@
-package com.tnsif.daythree;
+package com.tnsif.Assignmentthree;
 public class Bank {
 	private static int totalAccounts = 0;
 

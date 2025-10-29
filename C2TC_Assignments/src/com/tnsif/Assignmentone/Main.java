@@ -1,4 +1,4 @@
-package com.tnsif.dayone;
+package com.tnsif.Assignmentone;
 public class Main {
 
 	public static void main(String[] args) {
